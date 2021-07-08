@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there, I am Parth Kawatra! 👋
+---
+- 🌱 I’m currently learning JavaScript!
+- 📚 I'm in the final year of Bachelor of Computer Applications.
+- 📫 How to reach me: parthkawatra@hotmail.com
+- 
 <!--
 **parth2187/parth2187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
