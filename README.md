@@ -1,9 +1,13 @@
-### Hi there, I am Parth Kawatra! 👋
+### Hi there, I’m Parth Kawatra! 👋
+
 ---
-- 🌱 I’m currently learning JavaScript!
-- 🧑🏻‍🎓 BCA Graduate 
-- 📚 Currently pursuing MCA at Lovely Professsional University
-- 📫 How to reach me: parthkawatra@hotmail.com
+
+- 💼 Currently working as a **Junior Software Engineer** at **Innefu Labs Pvt Ltd**, specializing in **Angular**
+- 🎓 MCA Graduate
+- 💻 Passionate about front-end development and building intuitive UIs
+- 📘 Always learning and growing in the web development space
+- 📫 How to reach me: **hello@parthkawatra.com**
+
 <!--
 **parth2187/parth2187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
